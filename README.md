@@ -1,13 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RebertiCS.RebertiCS" />
 
-<h3 align="center">DevOps e programador FOSS</h3>
+<h3 align="center">DevOps e programador</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Atualmente trabalhando em um **sistema ERP**
-
  </div>
  
 <div align="center"> 
@@ -24,7 +22,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center">Linguagens-Frameworks-Ferramentas</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,jenkins" />
